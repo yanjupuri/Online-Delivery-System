@@ -1,0 +1,11 @@
+Recipient:	 wexxc
+Contact number:	 09123456789
+From:	 Zamboanga City
+To:	 Manila City
+Parcel number:	 Item received
+Order ID:	 140
+Delivery ID:	 253
+Weight:	 7.0kg
+Shipping cost:	 189.0
+Courier:	 J&T Express
+
